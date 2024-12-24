@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Man_extGitIC_Bheema1Project
+  gitServerName: abhk
+  gitUrl: https://github.com/ak879753
+  gitUsername: ak879753
+  gitBranch: main
