@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/ak879753
   gitUsername: ak879753
   gitBranch: main
+services:
+- serviceName: project.man_extgitic_bheema1.integrations:DAF_flowtest
+  packages:
+  - name: Man_extGitIC_Bheema1Project
+    version: "1.0"
+- serviceName: pub.date:currentNanoTime
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2025
